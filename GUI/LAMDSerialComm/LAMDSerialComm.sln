@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LAMDSerialComm", "LAMDSerialComm\LAMDSerialComm.vcxproj", "{883130A9-4EE5-4976-85E4-B0C4C309F6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883130A9-4EE5-4976-85E4-B0C4C309F6DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{883130A9-4EE5-4976-85E4-B0C4C309F6DE}.Debug|Win32.Build.0 = Debug|Win32
+		{883130A9-4EE5-4976-85E4-B0C4C309F6DE}.Release|Win32.ActiveCfg = Release|Win32
+		{883130A9-4EE5-4976-85E4-B0C4C309F6DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿빌드 시작: 2021-09-24 오후 2:58:19
+     1>2 노드의 "c:\Users\User\documents\visual studio 2012\Projects\LAMDSerialComm\LAMDSerialComm\LAMDSerialComm.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\LAMDSerialComm.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LAMDSerialComm.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt LAMDSerialComm.cpp LAMDSerialCommDlg.cpp
+         LAMDSerialCommDlg.cpp
+         LAMDSerialComm.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\LAMDSerialComm.res" LAMDSerialComm.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\user\documents\visual studio 2012\Projects\LAMDSerialComm\Debug\LAMDSerialComm.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\user\documents\visual studio 2012\Projects\LAMDSerialComm\Debug\LAMDSerialComm.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\user\documents\visual studio 2012\Projects\LAMDSerialComm\Debug\LAMDSerialComm.lib" /MACHINE:X86 Debug\LAMDSerialComm.res
+         Debug\LAMDSerialComm.obj
+         Debug\LAMDSerialCommDlg.obj
+         Debug\stdafx.obj
+         LAMDSerialComm.vcxproj -> c:\users\user\documents\visual studio 2012\Projects\LAMDSerialComm\Debug\LAMDSerialComm.exe
+     1>"c:\Users\User\documents\visual studio 2012\Projects\LAMDSerialComm\LAMDSerialComm\LAMDSerialComm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.35
